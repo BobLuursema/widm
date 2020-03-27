@@ -13,11 +13,10 @@ df['correctie'] = 100 / df['spelers']
 for speler in ['buddy', 'miljuschka', 'nathan', 'leonie', 'tina', 'anita', 'jaike', 'johan', 'claes', 'rob']:
     df['{}_correctie'.format(speler)] = df[speler] - df['correctie']
 
-plotdf = df.drop(labels=['spelers', 'unix', 'buddy','miljuschka','nathan','leonie','tina', 'anita', 'jaike', 'johan', 'claes', 'rob', 'correctie'], axis=1)
-
-plt.figure()
+plotdf = df.drop(labels=['spelers', 'unix', 'buddy', 'miljuschka', 'nathan', 'leonie', 'tina', 'anita', 'jaike', 'johan', 'claes', 'rob', 'correctie'], axis=1)
 
 ax = plotdf.plot()
 ax.legend(bbox_to_anchor=(0.3, 0.5))
 
-plt.savefig("../storage/pictures/plot.png")
+plt.show()
+# plt.savefig("../storage/pictures/plot.png")

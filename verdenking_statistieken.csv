@@ -1,53 +1,81 @@
 seizoen,aflevering,mol,winnaar,verliezer,drie,vier,vijf,zes,zeven,acht,negen,tien
 1,1,vier,drie twee,,zes,drie,zeven,,drie,zeven,drie,
-1,2,vier,drie,drie,zes,drie,zeven,"",drie,zeven,"",""
-1,3,zeven drie,twee,een,zes twee,drie,zeven,drie,zes,"","",""
-1,4,vier,twee,drie,twee,drie,drie,vier,"","","",""
-1,5,twee,drie,drie,een twee,vijf,drie,"","","","",""
-1,6,een,nul,drie,twee,drie,"","","","","",""
-1,7,twee,nul,drie,"","","","","","","",""
-1,8,?,nul,een,"","","","","","","",""
-1,9,?,?,?,"","","","","","","",""
-2,1,zes,?,drie,?,zes,vier,vier,twee,vier,zes een,""
-2,2,vier,nul acht,zes drie,zeven,zes,vier,vier,een,nul,"",""
-2,3,een,nul,drie,zeven,drie,vier,vier,een twee,"","",""
-2,4,een,nul zes,nul,vier,?,vier,vier,"","","",""
-2,5,een,vier,nul,vier,?,?,"","","","",""
-2,6,een,nul vier,een,nul,?,"","","","","",""
-2,7,?,nul,?,nul,"","","","","","",""
-2,8,een,nul,nul,,"","","","","","",""
-2,9,?,?,?,"","","","","","","",""
+1,2,vier,drie,drie,zes,drie,zeven,,drie,zeven,,
+1,3,zeven drie,twee,een,zes twee,drie,zeven,drie,zes,,,
+1,4,vier,twee,drie,twee,drie,drie,vier,,,,
+1,5,twee,drie,drie,een twee,vijf,drie,,,,,
+1,6,een,nul,drie,twee,drie,,,,,,
+1,7,twee,nul,drie,,,,,,,,
+1,8,?,nul,een,,,,,,,,
+1,9,?,?,?,,,,,,,,
+2,1,zes,?,drie,?,zes,vier,vier,twee,vier,zes een,
+2,2,vier,nul acht,zes drie,zeven,zes,vier,vier,een,nul,,
+2,3,een,nul,drie,zeven,drie,vier,vier,een twee,,,
+2,4,een,nul zes,nul,vier,?,vier,vier,,,,
+2,5,een,vier,nul,vier,?,?,,,,,
+2,6,een,nul vier,een,nul,?,,,,,,
+2,7,?,nul,?,nul,,,,,,,
+2,8,een,nul,nul,,,,,,,,
+2,9,?,?,?,,,,,,,,
 3,1,een,zes,drie,een,zes,zes,tien,zes,drie,vijf,drie
-3,2,zes drie,zes,drie,een,zes,nul,twee,zes,nul zes,?,""
-3,3,twee zes,zes,drie,een,zes,drie,twee,zes,?,"",""
-3,4,twee vijf,zes,drie,een,zes,drie,twee,zes,"","",""
-3,5,?,?,zes drie,?,zes,zes,twee,zes,"","",""
-3,6,twee drie,zes,drie,?,zes,zes,drie,"","","",""
-3,7,twee,twee,drie,?,drie,?,"","","","",""
-3,8,twee,twee,drie een,een,drie,"","","","","",""
-3,9,twee,nul,een nul,een,"","","","","","",""
-3,10,twee,nul,nul,"","","","","","","",""
-3,11,?,?,?,"","","","","","","",""
-4,1,negen,vijf,Louis,zes,een,een vijf acht,negen vier acht,twee,drie negen,vijf zes,""
-4,2,een vier,vijf,vijf,zes,twee,een twee,drie,vier,nul,"",""
-4,3,een zeven,nul,vier,zes vier,twee,twee,vier,vier,"","",""
-4,4,vier,vijf,vijf,zes,?,twee,zeven,vier,"","",""
-4,5,twee,vijf,?,zes,twee,twee,nul vijf,"","","",""
-4,6,drie,vijf,vijf,nul,twee,?,?,"","","",""
-4,7,?,?,?,?,?,"","","","","",""
-4,8,twee drie,twee nul,nul,nul,twee,"","","","","",""
-4,9,?,nul,een,?,"","","","","","",""
-4,10,twee,nul,een,"","","","","","","",""
-4,11,?,?,?,"","","","","","","",""
-5,1,drie,vijf nul,?,een,negen,een twee acht,nul,?,zes,nul acht,""
-5,2,?,?,?,?,?,?,?,?,?,?,""
-5,3,?,?,?,?,?,?,?,?,?,?,""
-5,4,?,zeven vijf twee,zeven,vier,vijf,zeven twee,drie,twee,?,"",""
-5,5,een,twee,?,vijf vier,zes twee,twee,vijf nul,vijf zes twee,"","",""
-5,6,twee,nul twee,vier een,nul,zes vijf,zes,vijf,"","","",""
-5,7,een,nul,?,een,?,"","","","","",""
-5,8,?,?,?,?,"","","","","","",""
-5,9,?,?,?,"","","","","","","",""
-5,10,?,?,?,"","","","","","","",""
-"","","","","","","","","","","","",""
-"","","","","","","","","","","","",""
+3,2,zes drie,zes,drie,een,zes,nul,twee,zes,nul zes,?,
+3,3,twee zes,zes,drie,een,zes,drie,twee,zes,?,,
+3,4,twee vijf,zes,drie,een,zes,drie,twee,zes,,,
+3,5,?,?,zes drie,?,zes,zes,twee,zes,,,
+3,6,twee drie,zes,drie,?,zes,zes,drie,,,,
+3,7,twee,twee,drie,?,drie,?,,,,,
+3,8,twee,twee,drie een,een,drie,,,,,,
+3,9,twee,nul,een nul,een,,,,,,,
+3,10,twee,nul,nul,,,,,,,,
+3,11,?,?,?,,,,,,,,
+4,1,negen,vijf,Louis,zes,een,een vijf acht,negen vier acht,twee,drie negen,vijf zes,
+4,2,een vier,vijf,vijf,zes,twee,een twee,drie,vier,nul,,
+4,3,een zeven,nul,vier,zes vier,twee,twee,vier,vier,,,
+4,4,vier,vijf,vijf,zes,?,twee,zeven,vier,,,
+4,5,twee,vijf,?,zes,twee,twee,nul vijf,,,,
+4,6,drie,vijf,vijf,nul,twee,?,?,,,,
+4,7,?,?,?,?,?,,,,,,
+4,8,twee drie,twee nul,nul,nul,twee,,,,,,
+4,9,?,nul,een,?,,,,,,,
+4,10,twee,nul,een,,,,,,,,
+4,11,?,?,?,,,,,,,,
+5,1,drie,vijf nul,?,een,negen,een twee acht,nul,?,zes,nul acht,
+5,2,?,?,?,?,?,?,?,?,?,?,
+5,3,?,?,?,?,?,?,?,?,?,?,
+5,4,?,zeven vijf twee,zeven,vier,vijf,zeven twee,drie,twee,?,,
+5,5,een,twee,?,vijf vier,zes twee,twee,vijf nul,vijf zes twee,,,
+5,6,twee,nul twee,vier een,nul,zes vijf,zes,vijf,,,,
+5,7,een,nul,?,een,?,,,,,,
+5,8,?,?,?,?,,,,,,,
+5,9,?,?,?,,,,,,,,
+5,10,?,?,?,,,,,,,,
+6,1,negen,negen acht zes,?,acht vier,?,acht negen,?,negen,een,vier nul,
+6,2,vier,zes,?,acht,acht twee,acht drie,?,vier zes twee,?,,
+6,3,zeven,zes,?,vijf,drie,?,?,drie,"","",""
+6,4,vier zeven,twee,drie,vier een,zes,?,drie vier nul,vier,"","",""
+6,5,vier,drie,drie,een,zes,drie,?,"","","",""
+6,6,vier,drie twee,drie,een,een,?,"","","","",""
+6,7,twee,twee,drie,een vier,?,"","","","","",""
+6,8,een,?,drie,een,"","","","","","",""
+6,9,een,nul,?,"","","","","","","",""
+6,10,?,?,?,"","","","","","","",""
+7,1,twee,vier zeven,negen,?,?,twee zeven nul vier,?,,"","",""
+7,2,twee,nul,?,vier twee,?,?,nul,een,zeven,?,""
+7,3,vier,nul,vier,vier,twee,vier,vijf,?,?,"",""
+7,4,twee,zes vier,vier,vier,?,twee nul,drie nul vier,een twee vier,"","",""
+7,5,vier,zes,vier,vier,twee,twee,"","","","",""
+7,6,vier,nul,vier,vijf,twee,twee,"","","","",""
+7,7,vier drie,nul,vier,vier,twee,"","","","","",""
+7,8,drie,nul,een,een,"","","","","","",""
+7,9,drie,nul,een,een,"","","","","","",""
+7,10,?,nul,een,een,"","","","","","",""
+8,1,vijf,zes twee,vier,twee zes acht,vijf twee drie,zeven twee,vijf zeven twee,zes een acht vier,zeven,?,""
+8,2,een drie,zes,drie vier vijf acht,?,drie acht,?,vijf zeven,vier drie vijf,een zeven vier,"",""
+8,3,zes,?,vijf een drie vier,vijf vier een,een,drie,zeven vijf drie,vier een vijf,"","",""
+8,4,een,drie nul,een vier vijf,een vier,een nul,een vier,?,"","","",""
+8,5,drie,drie,een,vier,drie,?,"","","","",""
+8,6,drie,drie,een vier,vier,drie,?,"","","","",""
+8,7,drie,?,vier,vier,drie,"","","","","",""
+8,8,drie,drie,drie een,?,,"","","","","",""
+8,9,een,nul,een,,"","","","","","",""
+8,10,?,?,?,"","","","","","","",""
